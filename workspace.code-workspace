@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Icons",
+			"path": "..\\Icons-20201201T093024Z-001\\Icons"
+		},
+		{
+			"name": "my porfolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my porfolio"
+	}
+}

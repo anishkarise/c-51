@@ -1,0 +1,22 @@
+h1{
+    color:khaki;
+}
+*{
+
+    background-color:#B68E8E;
+    color:cyan;
+}
+
+.header{
+    background-color:#A05CA0;
+    display:flex;
+    justify-content: space-between;
+}
+.iteam{
+display:flex;
+justify-content: space-evenly;
+}
+.menu{
+    display:flex;
+    justify-content: space-evenly;
+}
